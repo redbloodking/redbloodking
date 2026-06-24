@@ -34,6 +34,4 @@
   -->
 </div>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=redbloodking&style=flat-square&color=blue" alt="visitor count" />
-</div>
+
