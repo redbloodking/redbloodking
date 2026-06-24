@@ -2,6 +2,7 @@
 
 # Hi there 👋, I'm K1M
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+at+SUSTech;BioMedical+Engineering+Student;EEG+%26+BCI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
