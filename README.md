@@ -12,20 +12,6 @@
 - 🎮 Bilibili content creator
 - 🌱 Currently learning deep learning & medical signal analysis
 
-## 🛠️ Tech Stack
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-
-### Tools & Frameworks
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 ## 📊 GitHub Stats
 <div align="center">
